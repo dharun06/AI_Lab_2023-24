@@ -1,7 +1,7 @@
 # Ex.No: 13 Learning – Use Supervised Learning  
 
 #### DATE:                         
-#### NAME: BALAJI K
+#### NAME: DHARUN KUMAR K
 #### REGISTER NUMBER: 212223060051
 
 ## AIM: 
